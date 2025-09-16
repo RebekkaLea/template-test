@@ -3,6 +3,7 @@
 <map>
     <title>Introduction to Google Bard</title>
     <topicref href="bard_concept_what-is-bard.dita">
+        <topicref href="index.dita" />
         <topicref href="bard_concept_generative-ai.dita"/>
         <topicref href="bard_task.dita"/>
         <topicref href="bard_reference.dita"/>
