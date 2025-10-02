@@ -7,6 +7,6 @@
         <topicref href="bard_concept_generative-ai.dita"/>
         <topicref href="bard_task.dita"/>
         <topicref href="bard_reference.dita"/>
+        <topicref href="Concept.dita"/>
     </topicref>
-    <topicref href="Concept.dita"/>
 </map>
