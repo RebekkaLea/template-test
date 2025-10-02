@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_ihc_pss_vgc">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>What is this Topic?</title>
+    <shortdesc>Wow. This is weird writing in a browser.</shortdesc>
     <conbody>
-        <p></p>
+        <p>Here is some dummy content.</p>
     </conbody>
 </concept>
