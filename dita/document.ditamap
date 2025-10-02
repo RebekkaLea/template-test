@@ -8,4 +8,5 @@
         <topicref href="bard_task.dita"/>
         <topicref href="bard_reference.dita"/>
     </topicref>
+    <topicref href="Concept.dita"/>
 </map>
